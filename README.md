@@ -1,7 +1,8 @@
 # centos6tovault
-Update Centos6 repository CentOS-Base to Centos6 Vault Repository after Centos6 EOL
+- Update Centos6 repository CentOS-Base to Centos6 Vault Repository after Centos6 EOL
+- Install epel repository from archives.fedoraproject.org
 
-Running 
+The command line below, downloads and executes the script.
 ```
 curl https://raw.githubusercontent.com/andersonesanto/centos6tovault/main/centos6tovault.sh | bash
 ```

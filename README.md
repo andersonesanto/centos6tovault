@@ -1,2 +1,3 @@
 # centos6tovault
-Alter Centos6 to Centos6 Vault Repository
+Update Centos6 repository CentOS-Base to Centos6 Vault Repository after Centos6 EOL
+
